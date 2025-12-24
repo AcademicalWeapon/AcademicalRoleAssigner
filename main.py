@@ -1,5 +1,5 @@
 """The Academical Role Assigner Discord Bot: create/update a cosmetic role
-Repurposed from Academical Creator Discord Bot. Refer Documentation or studios.academcial.eu on Obsidian for usage.
+Repurposed from Academical Creator Discord Bot. Refer to Documentation on Obsidian for usage.
 
 This File reads the bot token from a .env file (use the key `DC_TOKEN`).
 Roles are cosmetic only: the bot will create or update a role's colour and will assign the role to the user.
